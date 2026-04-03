@@ -175,6 +175,7 @@ RenZhang Chen,
 - If the code, dataset and paper help your research, please cite our paper:
 
   ```BibTeX
+[1]Shuqiao Liang. Jian Liu. Chen Renzhang. Quanlong Guan. FerretNet: Efficient Synthetic Image Detection via Local Pixel Dependencies. NeurIPS. 2025
 
   ```
 
